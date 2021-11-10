@@ -27,6 +27,9 @@
 #### Kendal
 <img width="860" alt="Kendall" src="https://user-images.githubusercontent.com/85215301/141042156-777af2f6-6561-45db-829b-98458f0d9ca0.png">
 
+### User Interface
+
+#### You can select from a list of values which professional you would like to select and for how many hours. 
 
 <img width="1680" alt="transaction" src="https://user-images.githubusercontent.com/85215301/140690874-3e9d4d43-f34d-4b76-a41a-3de0515bcf1d.png">
 
