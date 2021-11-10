@@ -36,3 +36,9 @@
 #### Once you've selected your professional and for the amount of time you wish to hire them, you can then send your Ethereum crypto currency through the "Send Transaction" tab. The transaction will then show on your Etherscan.
 
 <img width="1680" alt="etherscan_posting" src="https://user-images.githubusercontent.com/85215301/140690985-d6f7b25c-bea7-4f84-bd62-d7b988cb6b79.png">
+
+### Contributors
+##### Will Olesinski
+
+### License
+#### This project uses a MIT license. This license allows you to use the licensed material at your discretion, as long as the original copyright and license are included in your work files. This license does not contain a patent grant, and liberate the authors of any liability from the use of this code.
